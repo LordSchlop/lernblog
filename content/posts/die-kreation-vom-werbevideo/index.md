@@ -3,7 +3,7 @@ title = "Die Kreation vom Werbevideo"
 date = "2023-05-09"
 draft = false
 pinned = false
-image = "https://7ckngmad.files.wordpress.com/2013/06/lalaal2.png"
+image = ""
 +++
 W﻿ir hatten schon von Anfang an ein ziemlich genaues Bild davon, wie unser Werbevideo aussehen sollte. Dieses haben wir auch in unserem Storyboard zusammengefasst. Kurz zusammengefasst: 
 
